@@ -37,7 +37,7 @@
 
 [互联网那些事儿](pages/互联网那些事儿/story.md)
 
-[有趣的](pages/有趣的/interesting.md)
+[有趣的](pages/有趣的/Interesting.md)
 
 [其他](pages/其他/others.md)
 
