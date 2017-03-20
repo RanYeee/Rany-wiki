@@ -30,6 +30,12 @@ Filmic Pro 是一款非常专业的 iOS 录像应用，可以在拍摄过程中�
 密码：Grimsonfilmicpro1
 ```
 
+</br>
+>ps：下载完后记得切回自己的APPID
+
+
+</br>
+
 ---
 参考：
 [iPhone 变身专业摄影机！Filmic Pro 带来逆天新功能](http://www.macx.cn/forum.php?mod=viewthread&ordertype=1&tid=2196861)
