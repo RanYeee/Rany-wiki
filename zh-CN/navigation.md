@@ -34,7 +34,7 @@
   * # 
   * [WebRTC](pages/ios/webrtc.md)
   *  [面试题](pages/ios/面试.md)
-  * [其他技巧](pages/ios/ios_other.md)
+  * [其他技巧](pages/ios/ios_others.md)
 
 [互联网那些事儿](pages/互联网那些事儿/story.md)
 
