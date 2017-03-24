@@ -15,6 +15,7 @@ IPA 文件依然需要是解密过的。
 在 Xcode 中可以直接断点进行调试
 可以用 lldb 命令（如 po），输出运行时信息
 可以使用 Xcode 的调试功能查看 View Hierarchy、Memory Graph 等信息
+
 <image src="http://epo.alicdn.com/image/44apirqm8360.jpg"/>
 
 
@@ -25,6 +26,7 @@ IPA 文件依然需要是解密过的。
 <image src="http://epo.alicdn.com/image/44apit7rmio0.jpg"/>
 
 <font color="#03A9F4">**修改过的 App 可以与原始 App 共存，并自动修改名字以作区分**</font>
+
 <image src="http://epo.alicdn.com/image/44apiuk9hmh0.jpg"/>
 
 ###怎么实现的？
@@ -55,6 +57,7 @@ IPA 文件依然需要是解密过的。
 <image src="http://epo.alicdn.com/image/44apj1ulga90.jpg"/>
 
 6). 点击 Xcode 左上角的编译运行按钮，修改好的 Youtube 就会安装到手机上，Reveal 中也能找到 
+
 <image src="http://epo.alicdn.com/image/44apj2nhee20.jpg"/>
 
 这个 Demo 打了一个包，传到 GitHub 的 Release 中了
